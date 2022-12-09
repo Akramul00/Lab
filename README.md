@@ -1,2 +1,0 @@
-# Lab
-Library Management System
